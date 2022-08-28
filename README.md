@@ -6,9 +6,6 @@ Measuring the dimensions of an object using Intel RealSense L515
 
 Link to video: https://youtu.be/hhrW0mHCW4Q
 
-
-
-https://user-images.githubusercontent.com/112019541/187053027-2122b48b-5421-4854-a954-3153c5c287ac.mp4
-
+https://user-images.githubusercontent.com/112019541/187053135-87c87b72-5068-4a6d-a3dd-e9769df637f4.mp4
 
 Link to video: https://youtu.be/XVB-H-CpW-w
